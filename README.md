@@ -5,4 +5,4 @@
 
 ## `COLABORADORES DEL PROYECTO` 
 <a href="https://github.com/devald7"><img src="https://github.com/devald7.png" width="100" height="100" alt="ALDAIR"/></a>
-<a href="https://github.com/Dev-Cawna"><img src="https://github.com/Dev-Cawna.png" width="100" height="100" alt="ALDAIR"/></a>
+<a href="https://github.com/Dev-Cawna"><img src="https://github.com/Dev-Cawna.png" width="100" height="100" alt="TIAGO"/></a>
