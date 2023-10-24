@@ -4,6 +4,6 @@
 </p>
 
 ## `EDITOR & PROPIETARIO` 
-<a href="https://github.com/Dev-Cawna"><img src="https://github.com/Dev-Cawna.png" width="150" height="150" alt="BrunoSobrino"/></a>
+<a href="https://github.com/Dev-Cawna"><img src="https://github.com/Dev-Cawna.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
 `Desarrolador - By Tiago Cawna`
