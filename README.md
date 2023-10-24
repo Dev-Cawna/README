@@ -1,4 +1,4 @@
-<h1 align="center">REPOSITORIO DE CAWNA</h1>
+<h1 align="center">💟 NeKoTinaBot-MD 💖</h1>
 <br>
 <div align="center">
 
@@ -9,7 +9,7 @@
 <p align="center">
 </p>
 <p align="center">
-<a href="https://tinyurl.com/2p9kb7yd"><img title="Autora" src="https://img.shields.io/badge/Autor-Dev-Cawna-orange?style=for-the-badge&logo=github"></a>
+<a href="https://tinyurl.com/2p9kb7yd"><img title="Autora" src="https://img.shields.io/badge/Autor-Cawna-orange?style=for-the-badge&logo=github"></a>
 </p>
 </details>
 </p>
