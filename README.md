@@ -3,8 +3,6 @@
 <a href="https://tinyurl.com/2p9kb7yd"><img title="Autora" src="https://img.shields.io/badge/Autor-Cawna-orange?style=for-the-badge&logo=github"></a>
 </p>
 
-> !
-
 #### ⬇️ COMANDOS DE INSTALACION
 > ejempl1}o 1
 ```bash
