@@ -1,4 +1,4 @@
-<h1 align="center">💟 NeKoTinaBot-MD 💖</h1>
+<h1 align="center">DESARROLADOR CAWNA</h1>
 <br>
 <br>
 <p align="center">
